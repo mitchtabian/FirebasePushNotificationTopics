@@ -1,0 +1,12 @@
+{
+  "to": 
+    "/topics/NEWYORK_WEATHER"
+  ,
+  "data": {
+    "extra_information": "This is some extra information"
+  },
+  "notification": {
+    "title": "New York Weather Update!",
+    "text": "This is the notification message.",
+  }
+}
